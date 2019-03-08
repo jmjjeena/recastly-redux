@@ -13,7 +13,3 @@ var rootReducer = combineReducers({
 //  listed above.
 
 export default rootReducer;
-// const todoApp = combineReducers({
-//     visibilityFilter,
-//     todos
-//   })
